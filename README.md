@@ -1,2 +1,2 @@
-# ppp
-Criado pelo APK Builder · GitHub: maikonadvogadomg-alt/skcodeeditor-pwa@main
+# skcodeeditor-pwa
+PWA publicado pelo APK Builder
